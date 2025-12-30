@@ -1,0 +1,3 @@
+This is an example text file.
+
+Adding content to demonstrate file creation in GitHub.
